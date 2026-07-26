@@ -1,15 +1,15 @@
 {
-  "versionName": "1.0.93",
-  "versionCode": 2086,
+  "versionName": "1.0.94",
+  "versionCode": 2087,
   "title": "\u53d1\u73b0\u65b0\u7248\u672c",
-  "apkUrl": "https://raw.githubusercontent.com/xixi442/yixueyun/main/downloads/yixueyun-v1.0.93.apk",
+  "apkUrl": "https://raw.githubusercontent.com/xixi442/yixueyun/main/downloads/yixueyun-v1.0.94.apk",
   "changelogUrl": "https://github.com/xixi442/yixueyun",
-  "size": "46.1 MB",
-  "publishedAt": "2026-07-25",
+  "size": "47.1 MB",
+  "publishedAt": "2026-07-26",
   "force": false,
   "notes": [
-    "\u5012\u6570\u65e5\u652f\u6301\u5148\u9009\u65e5\u671f\u518d\u8865\u5145\u6807\u9898",
-    "\u65e5\u671f\u9009\u62e9\u5668\u5207\u6362\u4e3a\u4e2d\u6587\u754c\u9762",
-    "\u65b0\u589e\u6821\u56ed\u7b7e\u62bd\u5361\u3001\u5e78\u8fd0\u5de5\u5177\u548c\u5b9e\u7528\u5c0f\u5de5\u5177"
+    "\u9996\u6b21\u51b7\u542f\u52a8\u767b\u5f55\u63d0\u901f\uff0c\u51cf\u5c11\u91cd\u590d\u8bf7\u6c42",
+    "\u6821\u56ed\u4f1a\u8bdd\u9884\u70ed\u8f6c\u4e3a\u9996\u9875\u540e\u53f0\u6267\u884c",
+    "\u53d6\u6d88\u6821\u56ed\u4ea4\u53cb\u5165\u53e3"
   ]
 }
